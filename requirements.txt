@@ -1,0 +1,11 @@
+numpy
+scipy
+pyzmq
+pandas
+matplotlib
+patsy
+pyparsing
+python-dateutil
+pytz
+scikit-learn
+statsmodels
